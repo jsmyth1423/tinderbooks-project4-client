@@ -78,4 +78,4 @@ I planned what I thought to be a pretty simple project, seeing as I had done mos
 
 1. Actual swiping!
 2. Intelligent suggestions based on previous behaviour from the user (maybe in a few years I'll have some idea how to do this!)
-3. Better visualisation of the 'no' option.
+3. Better visualisation of the 'yes' option.
