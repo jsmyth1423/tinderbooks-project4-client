@@ -44,12 +44,14 @@ I planned what I thought to be a pretty simple project, seeing as I had done mos
 
 ## Wins:
 
-1. Using an async map function was something I didn't think was possible previously but once I got it working it became extremely useful for my project in order to get the result I wanted
+1. Using an async map function was something I didn't think was possible previously but once I got it working it became extremely useful for my project in order to get the result I wanted.
+
 ![image](https://user-images.githubusercontent.com/53213823/168069355-75843304-fab2-40b4-9e7f-a3d531ad54a5.png)
 
 2. Again in the above snippet, the Promise.all method made it infinitely easier to get the data I wanted out of the API call, as previous to this it was in series of nested structures that would be a lot of hassle to get it out of, as well as being separate rather than an array I could iterate through later in my return statement.
 
 3. Using splice to cut the game I wanted to from the array made it super clean and concise code.
+
 ![image](https://user-images.githubusercontent.com/53213823/168070957-a3c3d1e0-c806-4b85-b565-cef7858abcc9.png)
 
 ---
