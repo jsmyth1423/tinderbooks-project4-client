@@ -41,13 +41,14 @@ A simple app in which people can discover new games to play from a pre-generated
 
 I planned what I thought to be a pretty simple project, seeing as I had done mostly similar things previously and wanted to focus on styling afterwards because I felt my own was lacking previously.
 
-I also kept track of progress with a Asana board
+
 ![image](https://user-images.githubusercontent.com/53213823/168085117-c49ec2b3-46ec-41c0-8124-8e940de48bf6.png)
 
-Lastly I made an entity relationship diagram to keep track of the data I was working with
+I also kept track of progress with a Asana board.
 
 ![image](https://user-images.githubusercontent.com/53213823/168085335-62743717-8a93-4417-8223-121e037b8554.png)
 
+Lastly I made an entity relationship diagram to keep track of the data I was working with.
 
 ## Wins:
 
