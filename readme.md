@@ -44,7 +44,7 @@ I planned what I thought to be a pretty simple project, seeing as I had done mos
 
 ![image](https://user-images.githubusercontent.com/53213823/168085117-c49ec2b3-46ec-41c0-8124-8e940de48bf6.png)
 
-I also kept track of progress with a Asana board.
+I also kept track of progress with an Asana board.
 
 ![image](https://user-images.githubusercontent.com/53213823/168085335-62743717-8a93-4417-8223-121e037b8554.png)
 
