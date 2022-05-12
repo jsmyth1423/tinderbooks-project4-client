@@ -1,0 +1,13 @@
+@import '~bulma/bulma.sass';
+
+
+.show-card {
+  display: none;
+}
+
+#home-bg {
+  background-image: url('https://i.ytimg.com/vi/mYrKAMLbjYA/maxresdefault.jpg');
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
