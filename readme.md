@@ -50,7 +50,7 @@ I planned what I thought to be a pretty simple project, seeing as I had done mos
 
 2. Again in the above snippet, the Promise.all method made it infinitely easier to get the data I wanted out of the API call, as previous to this it was in series of nested structures that would be a lot of hassle to get it out of, as well as being separate rather than an array I could iterate through later in my return statement. The before and after of the log is quite the transformation!
 
-![image](https://user-images.githubusercontent.com/53213823/168071207-07736074-9db2-4162-8169-94c0ae1bda91.png)
+![screenshot_2022-04-26_at_10 17 58](https://user-images.githubusercontent.com/53213823/168071427-d228aff2-1cfc-4d0f-b693-1188fe5b3b70.jpg)
 
 
 3. Using splice to cut the game I wanted to from the array made it super clean and concise code.
