@@ -23,7 +23,7 @@ A simple app in which people can discover new games to play from a pre-generated
 ## Tools Used:
 
 * Back-end:
-* Node.js
+* pip(env)
 * Django
 * Python
 * Express
