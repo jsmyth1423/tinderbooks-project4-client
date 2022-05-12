@@ -70,7 +70,7 @@ I planned what I thought to be a pretty simple project, seeing as I had done mos
 ## Lessons Learned:
 1. As mentioned above, setting the scope of the project is really difficult. Coming from Project 3 I thought I could do a lot more than was possible for me in the time given. 
 
-2. Some concepts aren't nearly as simple as they seem. Doing another project with a like/favourite button was definitely a tough one especially on a solo project. That as well as my aim to have actual swipable elements (hence the name of the idea!). I tried implementing this solely with my own CSS but it was really hard to make it responsive so I went with a more simplistic but function design. 
+2. Some concepts aren't nearly as simple as they seem. Doing another project with a like/favourite button was definitely a tough one especially on a solo project. That as well as my aim to have actual swipeable elements (hence the name of the idea!). I tried implementing this solely with my own CSS but it was really hard to make it responsive so I went with a more simplistic but functional design. 
 
 ---
 
