@@ -10,6 +10,7 @@ const Card = () => {
     const getData = async () => {
       const games = await getAllGames();
       setGames(games);
+      // console.log(games);
     };
     getData();
   }, []);

@@ -3,7 +3,7 @@ import axios from 'axios';
 export const registerUser = async (user) => {
   const options = {
     method: 'POST',
-    url: 'http://localhost:8000/authentication/register/',
+    url: 'https://jordangamesapp.herokuapp.com/authentication/register/',
     data: user,
   };
   const { data } = await axios.request(options);
@@ -13,7 +13,7 @@ export const registerUser = async (user) => {
 export const getUser = async (userId) => {
   const options = {
     method: 'GET',
-    url: `http://localhost:8000/authentication/users/${userId}`,
+    url: `https://jordangamesapp.herokuapp.com/authentication/users/${userId}`,
     headers: {
       authorization: `Bearer ${window.sessionStorage.getItem('token')}`
     }
@@ -26,7 +26,7 @@ export const getUser = async (userId) => {
 export const loginUser = async (credentials) => {
   const options = {
     method: 'POST',
-    url: 'http://localhost:8000/authentication/login/',
+    url: 'https://jordangamesapp.herokuapp.com/authentication/login/',
     data: credentials,
   };
 
@@ -44,7 +44,7 @@ export const updateUser = async (userId, swipedGames) => {
 
   const options = {
     method: 'PATCH',
-    url: `http://localhost:8000/authentication/users/${userId}`,
+    url: `https://jordangamesapp.herokuapp.com/authentication/users/${userId}`,
     data: { swipedGames },
     headers: {
       authorization: `Bearer ${window.sessionStorage.getItem('token')}`
